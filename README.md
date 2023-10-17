@@ -4,7 +4,7 @@
 
 This project applies Principal Component Analysis (PCA) to a dataset of facial images to reduce dimensionality, extract principal components (eigenfaces), and visualize the impact of dimensionality reduction.
 
-[PCA Eigenfaces](PCA_Eigenfaces.ipynb)
+[Check it out!](PCA_Eigenfaces.ipynb)
 
 ![image](https://github.com/RediZypce/PCA_Faces/assets/109640560/43adef47-e88f-4ffa-bbce-8037879dea11)
 
