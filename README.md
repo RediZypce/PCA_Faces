@@ -22,19 +22,21 @@ This project applies Principal Component Analysis (PCA) to a dataset of facial i
 - Matplotlib
 
 You can install the required Python packages using pip:
-```bash
+'''bash
 pip install numpy scikit-learn matplotlib
 
-## Usage
+
+# Usage
 
 Clone this repository to your local machine:
-bash
 
 git clone https://github.com/RediZypce/PCA_Faces.git
 
+
+
 1) Open the Jupyter Notebook PPCA_Eigenfaces.ipynb to run the code and experiment with PCA.
 
-2)Follow the code comments and explanations within the notebook to understand each step of the PCA analysis.
+2) Follow the code comments and explanations within the notebook to understand each step of the PCA analysis.
 
 ## Results
 The project demonstrates the following key aspects of PCA:
