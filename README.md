@@ -35,22 +35,3 @@ Feel free to modify the code, experiment with different datasets, or adapt it fo
 # Contact
 
 https://twitter.com/RediZypce
-
-
-You can install the required Python packages using pip:
-'''bash
-pip install numpy scikit-learn matplotlib
-
-# Usage
-
-Clone this repository to your local machine:
-
-git clone https://github.com/RediZypce/PCA_Faces.git
-
-
-
-1) Open the Jupyter Notebook PPCA_Eigenfaces.ipynb to run the code and experiment with PCA.
-
-2) Follow the code comments and explanations within the notebook to understand each step of the PCA analysis.
-
-
